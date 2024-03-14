@@ -29,6 +29,8 @@ const play = (playerSelection, computerSelection) => {
 	}
 
 	return result;
-	}
+}
+
+//TODO come back later and re-work the code to play a couple of rounds instead just one
 
 console.log(play(playerChoice, computerChoice));
